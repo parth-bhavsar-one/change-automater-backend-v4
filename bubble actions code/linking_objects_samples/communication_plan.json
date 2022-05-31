@@ -1,12 +1,12 @@
 [
-	{ "orignal_title": "stakeholdergroup", "src_col_title": "stakeholdergroup" },
-	{ "orignal_title": "stakeholdersubgroup", "src_col_title": "stakeholdersubgroup" },
-	{ "orignal_title": "audiencegroup", "src_col_title": "engagementapproach" },
+	{ "orignal_title": "stakeholdergroup" },
+	{ "orignal_title": "stakeholdersubgroup" },
+	{ "orignal_title": "audiencegroup" },
 	{ "orignal_title": "medium" },
 	{ "orignal_title": "purpose" },
 	{ "orignal_title": "frequency" },
 	{ "orignal_title": "message" },
 	{ "orignal_title": "owner" },
-	{ "orignal_title": "outcome", "src_col_title": "desiredlevelofcommitment" },
+	{ "orignal_title": "outcome" },
 	{ "orignal_title": "measure" }
 ]

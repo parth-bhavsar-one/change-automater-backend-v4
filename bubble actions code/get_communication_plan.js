@@ -35,18 +35,17 @@ function(properties, context) {
                 // deliverable.sm = sm
 
                 try {
-                    // Columns from Detailed Impact Assessment Spreadsheet
-                    deliverable.col_config.forEach((d_config, d_index) => {
-                        if (["stakeholdergroup", "stakeholdersubgroup", "audiencegroup", "outcome"].includes(d_config.orignal_title)) {
-                            // These columns need to be populated from the sm spreadsheet
-                            sm.col_config.forEach((sm_config, sm_index) => {
-                                if (d_config.src_col_title == sm_config.orignal_title) {
-                                    deliverable.col_data[d_index] = sm.col_data[sm_index]
-                                    deliverable.types[d_index] = sm.types[sm_index]
-                                }
-                            })
-                        }
-                    })
+                    // deliverable.col_config.forEach((d_config, d_index) => {
+                    //     if (["stakeholdergroup", "stakeholdersubgroup", "audiencegroup", "outcome"].includes(d_config.orignal_title)) {
+                    //         // These columns need to be populated from the sm spreadsheet
+                    //         sm.col_config.forEach((sm_config, sm_index) => {
+                    //             if (d_config.src_col_title == sm_config.orignal_title) {
+                    //                 deliverable.col_data[d_index] = sm.col_data[sm_index]
+                    //                 deliverable.types[d_index] = sm.types[sm_index]
+                    //             }
+                    //         })
+                    //     }
+                    // })
                 } catch (e) {
                     console.log(e)
                 }

@@ -47,8 +47,9 @@ function(properties, context) {
                             deliverable.col_data[index] = impactLevel
                         }
                     })
-                } catch (e) { }
+                } catch (e) {
 
+                }
 
                 res.data = JSON.stringify(deliverable)
                 callback(null, res)

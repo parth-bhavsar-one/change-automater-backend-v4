@@ -1,33 +1,51 @@
 [
 	{
-		"orignal_title":"stakeholdergroup"
-	},{
-		"orignal_title":"stakeholdersubgroup"
-	},{
-		"orignal_title":"division"
-	},{
-		"orignal_title":"individual"
-	},{
-		"orignal_title":"title"
-	},{
-		"orignal_title":"involvement"
-	},{
-		"orignal_title":"groupsizeimpacted"
-	},{
-		"orignal_title":"geographiclocation"
-	},{
-		"orignal_title":"ownerofrelationship"
-	},{
-		"orignal_title":"levelofimpact"
-	},{
-		"orignal_title":"levelofinfluence"
-	},{
-		"orignal_title":"engagementapproach"
-	},{
-		"orignal_title":"currentlevelofcommitment"
-	},{
-		"orignal_title":"desiredlevelofcommitment"
-	},{
-		"orignal_title":"tasks"
+		"orignal_title": "stakeholdergroup"
+	},
+	{
+		"orignal_title": "stakeholdersubgroup"
+	},
+	{
+		"orignal_title": "division",
+		"src_col_title": "businessunitsinvolved"
+	},
+	{
+		"orignal_title": "individual",
+		"src_col_title": "role/jobimpacts—name"
+	},
+	{
+		"orignal_title": "title"
+	},
+	{
+		"orignal_title": "involvement"
+	},
+	{
+		"orignal_title": "groupsizeimpacted"
+	},
+	{
+		"orignal_title": "geographiclocation",
+		"src_col_title": "geographicallocations"
+	},
+	{
+		"orignal_title": "ownerofrelationship"
+	},
+	{
+		"orignal_title": "levelofimpact",
+		"src_col_title": "role/jobimpacts—level"
+	},
+	{
+		"orignal_title": "levelofinfluence"
+	},
+	{
+		"orignal_title": "engagementapproach"
+	},
+	{
+		"orignal_title": "currentlevelofcommitment"
+	},
+	{
+		"orignal_title": "desiredlevelofcommitment"
+	},
+	{
+		"orignal_title": "tasks"
 	}
 ]

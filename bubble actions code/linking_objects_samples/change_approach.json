@@ -1,0 +1,195 @@
+[
+	{
+		"orignal_title": "changemanagementobjectives"
+	},
+	{
+		"orignal_title": "keystakeholderimpacts—stakeholders",
+		"src_col_title": "impactedstakeholdergroup"
+	},
+	{
+		"orignal_title": "keystakeholderimpacts—impact"
+	},
+	{
+		"orignal_title": "keystakeholderimpacts—actions"
+	},
+	{
+		"orignal_title": "changedeliverables—phases"
+	},
+	{
+		"orignal_title": "changedeliverables—scopeanddefine"
+	},
+	{
+		"orignal_title": "changedeliverables—planandgearup"
+	},
+	{
+		"orignal_title": "changedeliverables—implement"
+	},
+	{
+		"orignal_title": "changedeliverables—embed"
+	},
+	{
+		"orignal_title": "changeapproach—approach"
+	},
+	{
+		"orignal_title": "changeapproach—description",
+		"src_col_title": "changeinterventions—interventions"
+	},
+	{
+		"orignal_title": "changeapproach—goals"
+	},
+	{
+		"orignal_title": "changeapproach—keyactivities"
+	},
+	{
+		"orignal_title": "changerisks—risk"
+	},
+	{
+		"orignal_title": "changerisks—description",
+		"src_col_title": "changerisks"
+	},
+	{
+		"orignal_title": "changerisks—priority"
+	},
+	{
+		"orignal_title": "changerisks—likelihood"
+	},
+	{
+		"orignal_title": "changerisks—mitigation"
+	},
+	{
+		"orignal_title": "changeresources",
+		"src_col_title": "resources"
+	},
+	{
+		"orignal_title": "changemetrics",
+		"src_col_title": "keymetrics"
+	},
+	{
+		"orignal_title": "impactactivities/employeeimpact/impactname"
+	},
+	{
+		"orignal_title": "impactactivities/employeeimpact/impactlevel"
+	},
+	{
+		"orignal_title": "impactactivities/employeeimpact/impactscale"
+	},
+	{
+		"orignal_title": "impactactivities/employeeimpact/datefrom"
+	},
+	{
+		"orignal_title": "impactactivities/employeeimpact/dateto"
+	},
+	{
+		"orignal_title": "impactactivities/employeeimpact/division",
+		"src_col_title": "impacteddivision"
+	},
+	{
+		"orignal_title": "impactactivities/employeeimpact/subdivision"
+	},
+	{
+		"orignal_title": "impactactivities/employeeimpact/team"
+	},
+	{
+		"orignal_title": "impactactivities/employeeimpact/descriptions"
+	},
+	{
+		"orignal_title": "impactactivities/employeeimpact/stakeholdergroups"
+	},
+	{
+		"orignal_title": "impactactivities/employeeimpact/activitytype"
+	},
+	{
+		"orignal_title": "impactactivities/employeeimpact/geography",
+		"src_col_title": "location"
+	},
+	{
+		"orignal_title": "impactactivities/customer/impactname"
+	},
+	{
+		"orignal_title": "impactactivities/customer/impactlevel"
+	},
+	{
+		"orignal_title": "impactactivities/customer/numberofcustomers"
+	},
+	{
+		"orignal_title": "impactactivities/customer/datefrom"
+	},
+	{
+		"orignal_title": "impactactivities/customer/dateto"
+	},
+	{
+		"orignal_title": "impactactivities/customer/positive/negative"
+	},
+	{
+		"orignal_title": "impactactivities/customer/doescustomercare"
+	},
+	{
+		"orignal_title": "impactactivities/customer/descriptions"
+	},
+	{
+		"orignal_title": "impactactivities/process/impactname"
+	},
+	{
+		"orignal_title": "impactactivities/process/impactlevel"
+	},
+	{
+		"orignal_title": "impactactivities/process/datefrom"
+	},
+	{
+		"orignal_title": "impactactivities/process/dateto"
+	},
+	{
+		"orignal_title": "impactactivities/process/descriptions"
+	},
+	{
+		"orignal_title": "impactactivities/systems/impactname"
+	},
+	{
+		"orignal_title": "impactactivities/systems/impactlevel"
+	},
+	{
+		"orignal_title": "impact activities/systems/datefrom"
+	},
+	{
+		"orignal_title": "impact activities/systems/dateto"
+	},
+	{
+		"orignal_title": "impact activities/systems/descriptions"
+	},
+	{
+		"orignal_title": "impactactivities/partner/impactname"
+	},
+	{
+		"orignal_title": "impactactivities/partner/impactlevel"
+	},
+	{
+		"orignal_title": "impactactivities/partner/hours/week"
+	},
+	{
+		"orignal_title": "impactactivities/partner/datefrom"
+	},
+	{
+		"orignal_title": "impactactivities/partner/dateto"
+	},
+	{
+		"orignal_title": "impactactivities/partner/partnertype"
+	},
+	{
+		"orignal_title": "impactactivities/partner/partnerteam"
+	},
+	{
+		"orignal_title": "impactactivities/partner/partnername"
+	},
+	{
+		"orignal_title": "impactactivities/partner/descriptions"
+	},
+	{
+		"orignal_title": "impactactivities/partner/stakeholdergroup"
+	},
+	{
+		"orignal_title": "impactactivities/partner/activitytype"
+	},
+	{
+		"orignal_title": "impactactivities/partner/geography"
+	}
+]

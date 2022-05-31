@@ -65,7 +65,7 @@ function(properties, context) {
             updatedData.col_config.forEach((d_config, d_index) => {
                 d_config = d_config || {}
 
-                if( ["impacttype","impactedstakeholdergroup"].includes(d_config.orignal_title) ){
+                if( ["impactedstakeholdergroup", "futureoperationalenvironment"].includes(d_config.orignal_title) ){
                     // These columns need to be updated in the hli spreadsheet
                     hli.col_config.forEach((hli_config, hli_index) => {
                         if( d_config.src_col_title == hli_config.orignal_title ){
@@ -74,7 +74,7 @@ function(properties, context) {
                         }
                     })
                 }
-                if( ["impactedbusinessarea","rolesimpacted","levelofimpact"].includes(d_config.orignal_title) ){
+                if( ["impacteddivision", "rolesimpacted", "location"].includes(d_config.orignal_title) ){
                     // These columns need to be populated from the sm spreadsheet
                     sm.col_config.forEach((sm_config, sm_index) => {
                         if( d_config.src_col_title == sm_config.orignal_title ){

@@ -1,6 +1,27 @@
 [
 	{
+		"orignal_title": "stakeholdergroup",
+		"src_col_title": "stakeholdergroup"
+	},
+	{
+		"orignal_title": "people"
+	},
+	{
 		"orignal_title": "process",
 		"src_col_title": "businessprocessimpacts"
+	},
+	{
+		"orignal_title": "policy"
+	},
+	{
+		"orignal_title": "system",
+		"src_col_title": "systemortechnologyimpacts"
+	},
+	{
+		"orignal_title": "operatingmodel"
+	},
+	{
+		"orignal_title": "customer",
+		"src_col_title": "customerimpacts"
 	}
 ]
