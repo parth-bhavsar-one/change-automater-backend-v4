@@ -1,0 +1,52 @@
+[
+	{
+		"orignal_title": "change"
+	},
+	{
+		"orignal_title": "currentoperationalenvironment"
+	},
+	{
+		"orignal_title": "futureoperationalenvironment",
+		"src_col_title": "operatingmodel"
+	},
+	{
+		"orignal_title": "impacttype"
+	},
+	{
+		"orignal_title": "impactedstakeholdergroup",
+		"src_col_title": "stakeholdergroup"
+	},
+	{
+		"orignal_title": "impacteddivision",
+		"src_col_title": "division"
+	},
+	{
+		"orignal_title": "rolesimpacted",
+		"src_col_title": "title"
+	},
+	{
+		"orignal_title": "location",
+		"src_col_title": "geographiclocation"
+	},
+	{
+		"orignal_title": "levelofimpact"
+	},
+	{
+		"orignal_title": "datechangetakeseffect"
+	},
+	{
+		"orignal_title": "actionrequired"
+	},
+	{
+		"orignal_title": "responsibility"
+	},
+	{
+		"orignal_title": "whoelseneedstobeinvolved?"
+	},
+	{
+		"orignal_title": "expectedreview/completiondate"
+	},
+	{
+		"orignal_title": "status/progressupdate"
+	}
+]

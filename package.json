@@ -1,0 +1,29 @@
+{
+  "name": "automator-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Ejaz47/automator-bubble.git"
+  },
+  "author": "Ejaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Ejaz47/automator-bubble/issues"
+  },
+  "homepage": "https://gitlab.com/Ejaz47/automator-bubble#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "pg": "^8.7.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.19.2"
+  }
+}
